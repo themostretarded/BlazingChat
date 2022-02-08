@@ -1,0 +1,12 @@
+C:\Users\marco\Documents\PincheGit\PincheGITHUB\BlazingChat\Shared\bin\Debug\net5.0\BlazingChat.Shared.deps.json
+C:\Users\marco\Documents\PincheGit\PincheGITHUB\BlazingChat\Shared\bin\Debug\net5.0\BlazingChat.Shared.dll
+C:\Users\marco\Documents\PincheGit\PincheGITHUB\BlazingChat\Shared\bin\Debug\net5.0\ref\BlazingChat.Shared.dll
+C:\Users\marco\Documents\PincheGit\PincheGITHUB\BlazingChat\Shared\bin\Debug\net5.0\BlazingChat.Shared.pdb
+C:\Users\marco\Documents\PincheGit\PincheGITHUB\BlazingChat\Shared\obj\Debug\net5.0\BlazingChat.Shared.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\PincheGit\PincheGITHUB\BlazingChat\Shared\obj\Debug\net5.0\BlazingChat.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\PincheGit\PincheGITHUB\BlazingChat\Shared\obj\Debug\net5.0\BlazingChat.Shared.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\PincheGit\PincheGITHUB\BlazingChat\Shared\obj\Debug\net5.0\BlazingChat.Shared.AssemblyInfo.cs
+C:\Users\marco\Documents\PincheGit\PincheGITHUB\BlazingChat\Shared\obj\Debug\net5.0\BlazingChat.Shared.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\PincheGit\PincheGITHUB\BlazingChat\Shared\obj\Debug\net5.0\BlazingChat.Shared.dll
+C:\Users\marco\Documents\PincheGit\PincheGITHUB\BlazingChat\Shared\obj\Debug\net5.0\ref\BlazingChat.Shared.dll
+C:\Users\marco\Documents\PincheGit\PincheGITHUB\BlazingChat\Shared\obj\Debug\net5.0\BlazingChat.Shared.pdb
