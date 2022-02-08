@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-5TdqXDPwxIVSHFhzc5zBjaNOZBHRRj5XsmITw9Mt62c=",
+      "hash": "sha256-bkGWsJnjRHUMPaOl3kid\/n+hLInVXNoacR4s2CnksO0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -785,19 +785,19 @@
       "url": "_framework\/dotnet.5.0.13.js"
     },
     {
-      "hash": "sha256-N5bXJfi+y0pG6Hqx3u7fac5YVw\/hRcomUyDYjbtJ6Ak=",
+      "hash": "sha256-nsLRLArQWOr2LNDQ9QPTuGICWl4cBS+t2fUmpax+R0M=",
       "url": "_framework\/BlazingChat.Shared.dll"
     },
     {
-      "hash": "sha256-62FAHqS0E82CTMeViSmwdTcLrXdBmmdG2U52hOfMwaE=",
+      "hash": "sha256-vWOiV+KoVSZhXY1IVeu5MQzFh3u6Vv3Cwbhd5kF8jzo=",
       "url": "_framework\/BlazingChat.Shared.pdb"
     },
     {
-      "hash": "sha256-4HCD6euap8mk2QdhEAG3xjyW1mWkskFj4rptDL0YMgo=",
+      "hash": "sha256-5J+I6vI69\/HGcpNgN0pilLEbmsmlD8rhN5oiZE00xAE=",
       "url": "_framework\/BlazingChat.Client.dll"
     },
     {
-      "hash": "sha256-o0YPjN60mLwz\/ziJmTeuVpQlllKg87mtnBWtxHJz3MY=",
+      "hash": "sha256-CWatm5aaLu\/nfP\/TLs+8ydXWYzxTtTDbz7BBbM+EZw0=",
       "url": "_framework\/BlazingChat.Client.pdb"
     },
     {
@@ -1585,7 +1585,7 @@
       "url": "_framework\/dotnet.5.0.13.js.gz"
     },
     {
-      "hash": "sha256-8k24i5xK2fPiGotLo2woIx4sD+5ZWt\/yFD+EztFpXbc=",
+      "hash": "sha256-cx+kDH0FAxyXFSFnJBgg8tgBB6jYXPWLv9g6YQkI+jw=",
       "url": "_framework\/BlazingChat.Shared.dll.gz"
     },
     {
@@ -1661,5 +1661,5 @@
       "url": "BlazingChat.Client.bundle.scp.css"
     }
   ],
-  "version": "BXUH5UC1"
+  "version": "p4i2eCZr"
 };

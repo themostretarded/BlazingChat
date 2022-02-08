@@ -195,13 +195,13 @@
       "mscorlib.dll": "sha256-0qsbc1acYr3S6P7t9gSYyghOhMVs3CTJ9ukQ1VXqksY=",
       "netstandard.dll": "sha256-4Ejn1oHpeqmTQlJx7Kjuipn0ZVOoG0hGncN+9qyL1lo=",
       "System.Private.CoreLib.dll": "sha256-7n\/jioZu+\/2tD7v1RgjTTrBrviX+kVwPFGJ\/JBsHQGA=",
-      "BlazingChat.Shared.dll": "sha256-N5bXJfi+y0pG6Hqx3u7fac5YVw\/hRcomUyDYjbtJ6Ak=",
-      "BlazingChat.Client.dll": "sha256-4HCD6euap8mk2QdhEAG3xjyW1mWkskFj4rptDL0YMgo="
+      "BlazingChat.Shared.dll": "sha256-nsLRLArQWOr2LNDQ9QPTuGICWl4cBS+t2fUmpax+R0M=",
+      "BlazingChat.Client.dll": "sha256-5J+I6vI69\/HGcpNgN0pilLEbmsmlD8rhN5oiZE00xAE="
     },
     "lazyAssembly": null,
     "pdb": {
-      "BlazingChat.Shared.pdb": "sha256-62FAHqS0E82CTMeViSmwdTcLrXdBmmdG2U52hOfMwaE=",
-      "BlazingChat.Client.pdb": "sha256-o0YPjN60mLwz\/ziJmTeuVpQlllKg87mtnBWtxHJz3MY="
+      "BlazingChat.Shared.pdb": "sha256-vWOiV+KoVSZhXY1IVeu5MQzFh3u6Vv3Cwbhd5kF8jzo=",
+      "BlazingChat.Client.pdb": "sha256-CWatm5aaLu\/nfP\/TLs+8ydXWYzxTtTDbz7BBbM+EZw0="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-Uv0JiOiPEvlGxygIhcdY8XYm\/Nt+zgVckKrqB2uih0w=",
