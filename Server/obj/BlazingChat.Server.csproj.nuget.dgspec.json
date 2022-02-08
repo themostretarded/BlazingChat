@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Server\\BlazingChat.Server.csproj": {}
+    "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Server\\BlazingChat.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Client\\BlazingChat.Client.csproj": {
+    "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Client\\BlazingChat.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Client\\BlazingChat.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Client\\BlazingChat.Client.csproj",
         "projectName": "BlazingChat.Client",
-        "projectPath": "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Client\\BlazingChat.Client.csproj",
-        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Client\\obj\\",
+        "projectPath": "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Client\\BlazingChat.Client.csproj",
+        "packagesPath": "C:\\Users\\Meer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Client\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Meer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -32,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Shared\\BlazingChat.Shared.csproj": {
-                "projectPath": "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Shared\\BlazingChat.Shared.csproj"
+              "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Shared\\BlazingChat.Shared.csproj": {
+                "projectPath": "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Shared\\BlazingChat.Shared.csproj"
               }
             }
           }
@@ -75,7 +71,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
-              "version": "[5.0.13, 5.0.13]"
+              "version": "[5.0.14, 5.0.14]"
             }
           ],
           "frameworkReferences": {
@@ -83,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -92,22 +88,18 @@
         }
       }
     },
-    "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Server\\BlazingChat.Server.csproj": {
+    "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Server\\BlazingChat.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Server\\BlazingChat.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Server\\BlazingChat.Server.csproj",
         "projectName": "BlazingChat.Server",
-        "projectPath": "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Server\\BlazingChat.Server.csproj",
-        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Server\\obj\\",
+        "projectPath": "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Server\\BlazingChat.Server.csproj",
+        "packagesPath": "C:\\Users\\Meer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Server\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Meer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -120,11 +112,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Client\\BlazingChat.Client.csproj": {
-                "projectPath": "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Client\\BlazingChat.Client.csproj"
+              "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Client\\BlazingChat.Client.csproj": {
+                "projectPath": "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Client\\BlazingChat.Client.csproj"
               },
-              "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Shared\\BlazingChat.Shared.csproj": {
-                "projectPath": "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Shared\\BlazingChat.Shared.csproj"
+              "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Shared\\BlazingChat.Shared.csproj": {
+                "projectPath": "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Shared\\BlazingChat.Shared.csproj"
               }
             }
           }
@@ -162,26 +154,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Shared\\BlazingChat.Shared.csproj": {
+    "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Shared\\BlazingChat.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Shared\\BlazingChat.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Shared\\BlazingChat.Shared.csproj",
         "projectName": "BlazingChat.Shared",
-        "projectPath": "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Shared\\BlazingChat.Shared.csproj",
-        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Shared\\BlazingChat.Shared.csproj",
+        "packagesPath": "C:\\Users\\Meer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Meer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -220,7 +208,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

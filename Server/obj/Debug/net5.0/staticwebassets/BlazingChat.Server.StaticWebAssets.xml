@@ -1,5 +1,5 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\marco\Documents\PincheGit\PincheGITHUB\BlazingChat\Client\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\marco\Documents\PincheGit\PincheGITHUB\BlazingChat\Client\obj\Debug\net5.0\scopedcss\bundle\" />
-  <ContentRoot BasePath="/" Path="C:\Users\marco\Documents\PincheGit\PincheGITHUB\BlazingChat\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Meer\Desktop\pichitutorial\BlazingChat\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Meer\Desktop\pichitutorial\BlazingChat\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Meer\Desktop\pichitutorial\BlazingChat\Client\wwwroot\" />
 </StaticWebAssets>

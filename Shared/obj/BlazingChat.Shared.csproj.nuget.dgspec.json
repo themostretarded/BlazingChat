@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Shared\\BlazingChat.Shared.csproj": {}
+    "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Shared\\BlazingChat.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Shared\\BlazingChat.Shared.csproj": {
+    "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Shared\\BlazingChat.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Shared\\BlazingChat.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Shared\\BlazingChat.Shared.csproj",
         "projectName": "BlazingChat.Shared",
-        "projectPath": "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Shared\\BlazingChat.Shared.csproj",
-        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Shared\\BlazingChat.Shared.csproj",
+        "packagesPath": "C:\\Users\\Meer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Meer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
