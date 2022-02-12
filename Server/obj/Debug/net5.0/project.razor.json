@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Server\\BlazingChat.Server.csproj",
+  "FilePath": "c:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Server\\BlazingChat.Server.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -3960,101 +3960,101 @@
         }
       },
       {
-        "HashCode": 1936817935,
+        "HashCode": -649987449,
         "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.Pages.Counter",
+        "Name": "BlazingChat.Client.Pages.Contacts",
         "AssemblyName": "BlazingChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "Contacts"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.Pages.Counter"
+          "Common.TypeName": "BlazingChat.Client.Pages.Contacts"
         }
       },
       {
-        "HashCode": -1680041341,
+        "HashCode": -1489676425,
         "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.Pages.Counter",
+        "Name": "BlazingChat.Client.Pages.Contacts",
         "AssemblyName": "BlazingChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazingChat.Client.Pages.Counter"
+            "TagName": "BlazingChat.Client.Pages.Contacts"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.Pages.Counter",
+          "Common.TypeName": "BlazingChat.Client.Pages.Contacts",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 333338434,
+        "HashCode": 1989177164,
         "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.Pages.FetchData",
+        "Name": "BlazingChat.Client.Pages.Profile",
         "AssemblyName": "BlazingChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FetchData"
+            "TagName": "Profile"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.Pages.FetchData"
+          "Common.TypeName": "BlazingChat.Client.Pages.Profile"
         }
       },
       {
-        "HashCode": -835249074,
+        "HashCode": 759288469,
         "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.Pages.FetchData",
+        "Name": "BlazingChat.Client.Pages.Profile",
         "AssemblyName": "BlazingChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazingChat.Client.Pages.FetchData"
+            "TagName": "BlazingChat.Client.Pages.Profile"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.Pages.FetchData",
+          "Common.TypeName": "BlazingChat.Client.Pages.Profile",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 2115666417,
+        "HashCode": 1845018908,
         "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.Pages.Index",
+        "Name": "BlazingChat.Client.Pages.Settings",
         "AssemblyName": "BlazingChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "Settings"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.Pages.Index"
+          "Common.TypeName": "BlazingChat.Client.Pages.Settings"
         }
       },
       {
-        "HashCode": 1152452413,
+        "HashCode": 75730398,
         "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.Pages.Index",
+        "Name": "BlazingChat.Client.Pages.Settings",
         "AssemblyName": "BlazingChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazingChat.Client.Pages.Index"
+            "TagName": "BlazingChat.Client.Pages.Settings"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.Pages.Index",
+          "Common.TypeName": "BlazingChat.Client.Pages.Settings",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -15951,7 +15951,7 @@
   "RootNamespace": "BlazingChat.Server",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\marco\\Documents\\PincheGit\\PincheGITHUB\\BlazingChat\\Server\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\Meer\\Desktop\\pichitutorial\\BlazingChat\\Server\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     }
